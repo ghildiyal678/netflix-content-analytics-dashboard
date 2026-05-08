@@ -1,5 +1,4 @@
-# netflix-content-analytics-dashboard
-Netflix Data Analysis using Power BI
+
 # Netflix Content Analytics Dashboard
 
 ## Overview
